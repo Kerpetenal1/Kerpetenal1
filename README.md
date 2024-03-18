@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kerpetenal1
-- 👀 I’m interested in programing
+- 👀 I’m interested in a software
 - 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on Discord.
 - 📥Discord: kerpetenalininkerpeteni
